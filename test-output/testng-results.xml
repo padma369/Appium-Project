@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-16T16:00:11 IST" name="Default suite" finished-at="2022-11-16T16:00:22 IST" duration-ms="11144">
+    <groups>
+    </groups>
+    <test started-at="2022-11-16T16:00:11 IST" name="Default test" finished-at="2022-11-16T16:00:22 IST" duration-ms="11144">
+      <class name="appiumMobileAutomation.DemoAppTestOnRealDevices_DriverMethods">
+        <test-method is-config="true" signature="setup()[pri:0, instance:appiumMobileAutomation.DemoAppTestOnRealDevices_DriverMethods@f0c8a99]" started-at="2022-11-16T16:00:11 IST" name="setup" finished-at="2022-11-16T16:00:21 IST" duration-ms="9645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyBatteryInfo()[pri:1, instance:appiumMobileAutomation.DemoAppTestOnRealDevices_DriverMethods@f0c8a99]" started-at="2022-11-16T16:00:21 IST" name="verifyBatteryInfo" finished-at="2022-11-16T16:00:21 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBatteryInfo -->
+        <test-method signature="verifyOrientation()[pri:1, instance:appiumMobileAutomation.DemoAppTestOnRealDevices_DriverMethods@f0c8a99]" started-at="2022-11-16T16:00:21 IST" name="verifyOrientation" finished-at="2022-11-16T16:00:22 IST" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrientation -->
+        <test-method signature="verifyContext()[pri:2, instance:appiumMobileAutomation.DemoAppTestOnRealDevices_DriverMethods@f0c8a99]" started-at="2022-11-16T16:00:22 IST" name="verifyContext" finished-at="2022-11-16T16:00:22 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContext -->
+        <test-method signature="verifyDeviceTime()[pri:2, instance:appiumMobileAutomation.DemoAppTestOnRealDevices_DriverMethods@f0c8a99]" started-at="2022-11-16T16:00:22 IST" name="verifyDeviceTime" finished-at="2022-11-16T16:00:22 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeviceTime -->
+        <test-method signature="verifyLatLong()[pri:2, instance:appiumMobileAutomation.DemoAppTestOnRealDevices_DriverMethods@f0c8a99]" started-at="2022-11-16T16:00:22 IST" name="verifyLatLong" finished-at="2022-11-16T16:00:22 IST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLatLong -->
+      </class> <!-- appiumMobileAutomation.DemoAppTestOnRealDevices_DriverMethods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
